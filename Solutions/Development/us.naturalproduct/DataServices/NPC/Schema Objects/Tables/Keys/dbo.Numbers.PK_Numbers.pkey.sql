@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[Numbers] ADD CONSTRAINT [PK_Numbers] PRIMARY KEY CLUSTERED  ([Number]) ON [PRIMARY]
+
+

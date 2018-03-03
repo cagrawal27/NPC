@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[Subscription] WITH NOCHECK ADD
+CONSTRAINT [FK_Subscription_Users] FOREIGN KEY ([UserId]) REFERENCES [dbo].[Users] ([UserId]) ON DELETE CASCADE NOT FOR REPLICATION
+
+

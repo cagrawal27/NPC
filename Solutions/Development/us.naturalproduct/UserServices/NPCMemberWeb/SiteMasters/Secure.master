@@ -1,0 +1,30 @@
+<%@ Master Language="C#" EnableViewState="true" CodeFile="Secure.master.cs" Inherits="us.naturalproduct.web.Masters.Secure" %>
+<%@ Register TagPrefix="uc" TagName="Footer" Src="~/Controls/Footer.ascx" %>
+<%@ Register TagPrefix="uc" TagName="Menu" Src="~/Controls/Menu.ascx" %>
+<%@ Register TagPrefix="uc" TagName="AdminMenu" Src="~/Controls/AdminMenu.ascx" %>
+<%@ Register TagPrefix="uc" TagName="Header" Src="~/Controls/Header.ascx" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head runat="server">
+    <title>Natural Product Communications</title>
+    <link type="text/css" rel="stylesheet" href="../styles/mainSite.css" />
+    <link type="text/css" rel="stylesheet" href="../styles/layout.css" />    
+    <link type="text/css" rel="stylesheet" href="../styles/form.css" />
+    <link type="text/css" rel="stylesheet" href="../styles/pageStyles.css" />
+    <script type="text/javascript" src="../scripts/site.js"></script>         
+</head>
+<body>
+    <form id="Form1" runat="server">
+        <uc:Header ID="ucHeader" runat="server" />
+        <div id="Navigation">
+            <uc:Menu ID="ucMenu" runat="server" />
+            <uc:AdminMenu ID="ucAdminMenu" runat="server" Visible="false" />
+        </div>
+        <div id="Content">
+            <asp:ContentPlaceHolder ID="PageContent" runat="server" />
+            <div style="height: 100px;"></div>
+        </div>
+        <uc:Footer ID="ucFooter" runat="server" />
+    </form>
+</body>
+</html>

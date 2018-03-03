@@ -1,0 +1,17 @@
+<%@ Master Language="C#" EnableViewState="true" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="us.naturalproduct.web.Masters.Site" %>
+<%@ Register TagPrefix="uc" TagName="Footer" Src="~/Controls/Footer.ascx" %>
+<%@ Register TagPrefix="uc" TagName="Header" Src="~/Controls/Header.ascx" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head id="Head1" runat="server">
+    <title>Natural Product Communications</title>
+    <link type="text/css" rel="stylesheet" href="../styles/mainSite.css"/>
+</head>
+<body>
+    <form id="Form1" runat="server">
+        <uc:Header ID="ucHeader" runat="server" />
+        <asp:ContentPlaceHolder ID="BaseMasterPlaceHolder" runat="server" />
+        <uc:Footer ID="ucFooter" runat="server" />
+    </form>
+</body>
+</html>

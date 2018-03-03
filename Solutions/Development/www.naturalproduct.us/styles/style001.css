@@ -1,0 +1,129 @@
+.address {
+	FONT-SIZE: 11px; COLOR: #A52A2A; FONT-FAMILY:  Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+.pagetext {
+	FONT-SIZE: 13px; COLOR: #A52A2A; FONT-FAMILY:  Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+.pageHead {
+	FONT-SIZE: 15px; COLOR: #A52A2A; FONT-FAMILY:  Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+.pageFoot {
+	FONT-SIZE: 11px; COLOR: #A52A2A; FONT-FAMILY:  Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+.pageBigHead {
+	FONT-SIZE: 70px; COLOR: #FFCC00; FONT-FAMILY:  Times New roman, Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+.pageCompanyName {
+	FONT-SIZE: 35px; COLOR: #330066; FONT-FAMILY:  Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+.tableHeading {
+	FONT-SIZE: 12px; COLOR: #A52A2A; FONT-FAMILY:  Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+.tableDetail {
+	FONT-SIZE: 10px; COLOR: #A52A2A; FONT-FAMILY:  Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+table.content_box_outer_table {
+	padding-left:10px;
+	padding-bottom:5px;
+	padding-top:0px;
+	padding-right:0px;
+	}
+
+table.content_box_outer_table_in_sidebar_frame {
+	padding-left:10px;
+	padding-bottom:0px;
+	padding-top:10px;
+	padding-right:10px;
+	}
+
+table.content_box_inner_table {
+	background-color:#f0f0f0;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:5px;
+	}
+
+table.content_box_pdfinframes {
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:4px;
+	}
+
+td.content_box_title_highlight {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#A03033;
+	font-size:120%;
+	font-weight:bold;
+	text-align:center;
+	padding:1px;
+	vertical-align:middle;
+	}
+
+td.content_box_title {
+	font-family:"Trebuchet MS",Verdana,Arial,Helvetica,sans-serif;
+	font-style:italic;
+	color:#ffffff;
+	background-color:#828282;
+	font-size:120%;
+	font-weight:bold;
+	padding:1px;
+	text-align:center;
+	vertical-align:middle;
+	}
+
+td.content_box_space_between_sections {
+	padding-top:2px;
+	}
+
+td.content_box_arrow {
+	text-align:right;
+	padding-left:5px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_item {
+	text-align:left;
+	vertical-align:top;
+	padding-left:3px;
+	padding-right:5px;
+	padding-top:0px;
+	padding-bottom:3px;
+	}
+
+td.content_box_pdfinframes_citation_cell {
+	background-color:#ffffff;
+	border:1px #000000 solid;
+	padding:3px;
+	font-family:Verdana,Arial,Helvetica,sans-serif;
+	font-size:65%;
+	text-align:left;
+	}
+
+
+font.openaccess {
+	font-weight:bold;
+	padding-left:3px;
+	padding-right:3px;
+	background-color:#ffffff;
+	}
+font.openaccess_open {
+	color:#000000;
+	}
+font.openaccess_access {
+	color:#cc0000;
+	}
+font.openaccess_oa {
+	}
+.content_box_openaccess_title {
+	text-align:center;
+	white-space:nowrap;
+	background-color:#BABABA;
+	}

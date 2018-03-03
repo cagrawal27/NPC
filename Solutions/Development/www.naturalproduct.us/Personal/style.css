@@ -1,0 +1,31 @@
+.sidenav {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica, sans-serif
+}
+.maintext {
+	FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica, sans-serif
+}
+.footertext {
+	FONT-SIZE: 11px; COLOR: #999999; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica, sans-serif
+}
+A:link {
+	FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: #999999; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: underline
+}
+.subheading {
+	FONT-SIZE: 11px; COLOR: #0066cc; FONT-FAMILY: "Trebuchet MS", Arial, Helvetica, sans-serif
+}
+.accbg {
+	BACKGROUND-POSITION: left 50%; BACKGROUND-REPEAT: no-repeat
+}
+.address {
+	FONT-SIZE: 10px; COLOR: #999999; FONT-FAMILY:  Arial, Helvetica, sans-serif, "Trebuchet MS"
+}
+

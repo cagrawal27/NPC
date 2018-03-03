@@ -1,0 +1,94 @@
+.BodyText
+{
+    FONT-SIZE: 10pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.BodyTextWhite
+{
+    FONT-SIZE: 10pt;
+    COLOR: white;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.BodyTextBold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana
+}
+.Heading1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 16pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.Heading3
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana
+}
+.PBlackHeading13
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.PBlackHeading12
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.BodyTextSmall
+{
+    FONT-SIZE: 8pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.Heading1White
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 16pt;
+    COLOR: white;
+    FONT-FAMILY: Arial
+}
+.Heading2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.Risbutton
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #ffffcc;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #669966
+}
+.BodyTextRegular
+{
+    FONT-SIZE: 10pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana
+}
+.MiddleText
+{
+    FONT-SIZE: 14pt;
+    COLOR: #010066;
+    FONT-FAMILY: 'Comic Sans MS', Arial, Verdana
+}

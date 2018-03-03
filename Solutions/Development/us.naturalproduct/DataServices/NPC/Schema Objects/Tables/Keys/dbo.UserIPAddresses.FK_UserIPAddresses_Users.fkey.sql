@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[UserIPAddresses] WITH NOCHECK ADD
+CONSTRAINT [FK_UserIPAddresses_Users] FOREIGN KEY ([UserId]) REFERENCES [dbo].[Users] ([UserId]) ON DELETE CASCADE NOT FOR REPLICATION
+
+

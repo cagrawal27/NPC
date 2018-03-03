@@ -1,0 +1,982 @@
+.fs4
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.topnav
+{
+    background: #9DA2C8;
+}
+.topnavlink
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+        FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.topnavhighlight
+{
+    background: #B6BEB4;
+}
+.topnavhighlightlink
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+        FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.leftnavhighlight
+{
+    background: #666666;
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+        FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.leftnavinner
+{
+    background: #FFFFFF;
+}
+.leftnavlink
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+        FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.leftnav
+{
+    background: #E9F0E9;
+}
+.rightnav
+{
+    background: #E9F0E9;
+}
+.pattititlefont
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 18px;
+        FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.pattibgcolor
+{
+    background: #F3F2F7;
+}
+
+
+.title1 {
+        font-family: Verdana;
+        font-size: 11px;
+        font-weight: bold;
+        color: #000000;
+        text-decoration: none;
+}
+.text1 {
+        font-family: Verdana;
+        font-size: 11px;
+        font-weight: normal;
+        color: #333333;
+        text-decoration: none;
+}
+.link1 {
+        font-family: Verdana;
+        font-size: 11px;
+        font-weight: bold;
+        color: #0500FC;
+        text-decoration: none;
+}
+
+
+.contenttitle
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+        FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.contenttext
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+        FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.contentgreytext
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+        FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.contentlink
+{
+    COLOR: #0000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+        FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+
+.lnk
+{
+	color: #0000ff;
+	font-weight:normal;
+	text-decoration:underline;
+}
+.datefont
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 11px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.lightblackfont
+{
+    COLOR: #656565;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.shopfont
+{
+    COLOR: #656565;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.greyfont
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.greyfontul
+{
+    COLOR: #666666;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+}
+.copytext
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.normalfont
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.bullet {
+        font-family: "Arial";
+        font-size: 11px;
+        font-weight: bold;
+        color: #000000;
+        text-decoration: none;
+}
+
+.bulletfont
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.whitefont
+{
+    COLOR: #FFFFFF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.redfont
+{
+    COLOR: #FF0000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.smalllink
+{
+    COLOR: #0000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.smalllink_en
+{
+    COLOR: #0000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+
+.feedtext
+{
+    COLOR: #0000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 11px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.biglink
+{
+    COLOR: #0000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.smallfont
+{
+    COLOR: #0000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+    TEXT-DECORATION: none;
+}
+.headfont
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.headfont
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 17px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.tealfont
+{
+    COLOR: #009AC6;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.pattifont
+{
+    COLOR: #656565;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 18px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.blueheadfont
+{
+    COLOR: #669999;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.greenheadfont
+{
+    COLOR: #99CC00;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.greenheadfontdark
+{
+    COLOR: #669933;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 14px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.greenfont
+{
+    COLOR: #66CC00;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.greentext
+{
+    COLOR: #336600;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.linktext
+{
+    COLOR: #235FFB;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+}
+.topnavfont
+{
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.purplefont
+{
+    COLOR: #7B00FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.darkgrey
+{
+    COLOR: #656565;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.darkgrey_en
+{
+    COLOR: #656565;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+
+.buttonfont
+{
+    font-family:Arial;
+    font-size:12px;    
+    height:18px;
+}
+.stockbuttonfont
+{
+    font-family:Arial;
+    font-size:12px;    
+    height:18px;
+    width:30px;
+    background:#7B9EBD;
+    color:#FFFFFF;
+    border-bottom:1px solid #7B9EBD;
+    border-right:1px solid #7B9EBD;
+    border-left:1px solid #7B9EBD;
+    border-top:1px solid #7B9EBD;
+}
+.stocktextfont 
+{
+    font-family:Arial;
+    font-size:11px;
+    height:18px;
+    border-bottom:1px solid #CCCCCC;
+    border-right:1px solid #CCCCCC;
+    border-left:1px solid #CCCCCC;
+    border-top:1px solid #CCCCCC;
+}
+.textfont 
+{
+    font-family:Arial;
+    font-size:11px;
+    height:18px;
+    border-bottom:1px solid #CCCCCC;
+    border-right:1px solid #CCCCCC;
+    border-left:2px solid #000000;
+    border-top:2px solid #000000;
+}
+
+
+
+.tableheadgen {
+    COLOR: #FFFFFF;
+	BACKGROUND-COLOR: #8874A8; 
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.tablehead {
+    COLOR: #FFFFFF;
+	BACKGROUND-COLOR: #8874A8; 
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.th {
+    COLOR: #FFFFFF;
+	BACKGROUND-COLOR: #8874A8; 
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+.rowdark {
+    COLOR: #000000;
+	BACKGROUND-COLOR: #D0CCD8; 
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.rowlight {
+    COLOR: #000000;
+	BACKGROUND-COLOR: #F8F4F8; 
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.vilotbiggest {
+    COLOR: #8000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 18px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.vilotbold {
+    COLOR: #8000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.rosesmallbold {
+    COLOR: #339900;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 11px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.bluetext {
+    COLOR: #3366FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.bluebold {
+    COLOR: #3366FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.bluesmall {
+    COLOR: #3366FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.bluelink {
+    COLOR: #3366FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: underline
+}
+
+.bluetinylink {
+    COLOR: #3366FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 9px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: underline
+}
+
+.bluesmalllink {
+    COLOR: #3366FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: underline
+}
+
+.darkgreytiny { 
+	COLOR: #333333; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 9px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.greytext { 
+	COLOR: #666666; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.greysmall { 
+	COLOR: #666666; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.greybold { 
+	COLOR: #666666; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.greybiggerbold { 
+	COLOR: #666666; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 16px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.redbold {  
+	COLOR: #FF6633; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.redtext {  
+	COLOR: #FF6633; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.blacktext {  
+	COLOR: #000000; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.blackbold {  
+	COLOR: #000000; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.blacksmall {  
+	COLOR: #000000; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.blackbigger {
+    COLOR: #000000;;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 16px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.blackbiggest {
+    COLOR: #000000;;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 18px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.whitebold {  
+	COLOR: #FFFFFF; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+.vilotbiggestgen {
+    COLOR: #8000FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 18px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+.redboldgen {  
+	COLOR: #FF6633; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 13px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+.whiteboldgen {  
+	COLOR: #FFFFFF; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+.lightgreytextgen { 
+	COLOR: #C0C0C0; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 13px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+.bluetextgen {
+    COLOR: #3366FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+.blueboldgen {
+    COLOR: #3366FF;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+.lightgreytinygen { 
+	COLOR: #C0C0C0; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 9px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+.greytextgen { 
+	COLOR: #666666; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.greyboldgen { 
+	COLOR: #666666; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.greybiggerboldgen { 
+	COLOR: #666666; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 16px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.blacktextgen {  
+	COLOR: #000000; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.blackboldgen {  
+	COLOR: #000000; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+	TEXT-DECORATION: none
+}
+
+.blacksmallgen {  
+	COLOR: #000000; 
+	FONT-FAMILY: Arial;
+    FONT-SIZE: 10px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.blackbiggergen {
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 16px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+.blackbiggestgen {
+    COLOR: #000000;
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 18px;
+	FONT-WEIGHT: normal;
+	TEXT-DECORATION: none
+}
+
+
+
+
+
+.topnavbgcolor
+{
+    background: #9DA2C8;
+}
+.topnavbordercolor
+{
+    background: #FFFFFF;
+}
+.topnavlink
+{
+    color: #FFFFFF;    
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+    TEXT-DECORATION: none;
+}
+.stockbgcolor
+{
+    background: #F5F5F5;
+}
+.hashbgcolor
+{
+    background: #0858A2;
+}
+.internetbgcolor
+{
+    background: #F5F5F5;
+}
+.citiesbgcolor
+{
+    background: #F5F5F5;
+}
+.discussbgcolor
+{
+    background: #F5F5F5;
+}
+.channelsbgcolor
+{
+    background: #F5F5F5;
+}
+/*This is the the color which RIS will use for the background stripe on the web site */
+.bgcolor
+{
+    /*background: #330066;*//*Abbas gave this color*/
+    /*background: #660066 */
+    /*background: #993399 */ /* Maybelle gave this color */
+    /*background: #003399;*/
+    background: #663366
+}
+/*This is the the color which RIS will use for the background stripe on the web site */
+.BodyTextBold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana
+}
+/* RIS-STyle*/
+.BodyTextBold
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana
+}
+.Heading1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 16pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.Heading3
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana
+}
+.PBlackHeading13
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 13pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.PBlackHeading12
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.BodyTextSmall
+{
+    FONT-SIZE: 8pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.Heading1White
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 16pt;
+    COLOR: white;
+    FONT-FAMILY: Arial
+}
+.Heading2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana;
+    TEXT-DECORATION: none
+}
+.Risbutton
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10pt;
+    COLOR: #ffffcc;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #669966
+}
+.BodyTextRegular
+{
+    FONT-SIZE: 10pt;
+    COLOR: #010066;
+    FONT-FAMILY: Arial, Helvetica, Verdana
+}
+.MiddleText
+{
+    FONT-SIZE: 14pt;
+    COLOR: #010066;
+    FONT-FAMILY: 'Comic Sans MS', Arial, Verdana
+}
+
+/* RIS Style*/
+
+A
+{
+	font-family:arial;
+	color: #000000;
+	font-size:11px;
+	text-decoration:underline;
+}
+TD
+{
+	font-size:12px;
+	font-family:arial;
+}
+A.lnk
+{
+	font-family:arial;
+	color: #0000FF;
+	font-size:10px;
+	font-weight:normal;
+	text-decoration:none
+}
+A.hover
+{
+	font-family:arial;
+	color: #0000FF;
+	font-size:10px;
+	font-weight:normal;
+	text-decoration:underline;
+}
+.titlebold
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+}
+.textnormal
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+}
+
+.righttitle
+{
+	font-family:arial;
+	font-size:12px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;
+}
+.rightTD
+{
+	font-size:12px;
+	font-family:arial;
+}
+.rightlnk
+{
+	font-family:arial;
+	color: #0000FF;
+	font-size:12px;
+	font-weight:normal;
+	text-decoration:none;
+}
+.righttitlebold
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: bold;
+}
+.righttextnormal
+{
+    FONT-FAMILY: Arial;
+    FONT-SIZE: 12px;
+	FONT-WEIGHT: normal;
+}
+.videotitle {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: #2F67CF;
+}
+
+.videotext {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #333333;
+}

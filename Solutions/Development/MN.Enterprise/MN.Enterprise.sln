@@ -1,0 +1,118 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MN.Enterprise", "MN.Enterprise", "{C63C0A15-500B-49EA-8178-F20BD264B735}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MN.Enterprise.Base", "MN.Enterprise.Base\MN.Enterprise.Base.csproj", "{2F9FD4FD-B6F4-4BF4-BE09-E1023D2F1E9E}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MN.Enterprise.Business", "MN.Enterprise.Business\MN.Enterprise.Business.csproj", "{B22FC5FA-6B27-4004-AF52-185346EB25C5}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MN.Enterprise.Data", "MN.Enterprise.Data\MN.Enterprise.Data.csproj", "{8573D155-759C-41A3-A780-71D6E817BBD2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MN.Enterprise.ExceptionHandling", "MN.Enterprise.ExceptionHandling\MN.Enterprise.ExceptionHandling.csproj", "{701AF05E-BAC0-4EA1-A477-0D78E1833947}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MN.Enterprise.Logging", "MN.Enterprise.Logging\MN.Enterprise.Logging.csproj", "{5C6C8E90-C794-4888-811E-A9784072A13D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MN.Enterprise.Utilities", "MN.Enterprise.Utilities\MN.Enterprise.Utilities.csproj", "{FB9B7434-F8C6-4246-98C2-DB6F06B18E51}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs09.codeplex.com/
+		SccProjectUniqueName0 = MN.Enterprise.Base\\MN.Enterprise.Base.csproj
+		SccProjectTopLevelParentUniqueName0 = MN.Enterprise.sln
+		SccProjectName0 = MN.Enterprise.Base
+		SccLocalPath0 = MN.Enterprise.Base
+		SccProjectUniqueName1 = MN.Enterprise.Business\\MN.Enterprise.Business.csproj
+		SccProjectTopLevelParentUniqueName1 = MN.Enterprise.sln
+		SccProjectName1 = MN.Enterprise.Business
+		SccLocalPath1 = MN.Enterprise.Business
+		SccProjectUniqueName2 = MN.Enterprise.Data\\MN.Enterprise.Data.csproj
+		SccProjectTopLevelParentUniqueName2 = MN.Enterprise.sln
+		SccProjectName2 = MN.Enterprise.Data
+		SccLocalPath2 = MN.Enterprise.Data
+		SccProjectUniqueName3 = MN.Enterprise.ExceptionHandling\\MN.Enterprise.ExceptionHandling.csproj
+		SccProjectTopLevelParentUniqueName3 = MN.Enterprise.sln
+		SccProjectName3 = MN.Enterprise.ExceptionHandling
+		SccLocalPath3 = MN.Enterprise.ExceptionHandling
+		SccProjectUniqueName4 = MN.Enterprise.Logging\\MN.Enterprise.Logging.csproj
+		SccProjectTopLevelParentUniqueName4 = MN.Enterprise.sln
+		SccProjectName4 = MN.Enterprise.Logging
+		SccLocalPath4 = MN.Enterprise.Logging
+		SccProjectUniqueName5 = MN.Enterprise.Utilities\\MN.Enterprise.Utilities.csproj
+		SccProjectTopLevelParentUniqueName5 = MN.Enterprise.sln
+		SccProjectName5 = MN.Enterprise.Utilities
+		SccLocalPath5 = MN.Enterprise.Utilities
+		SccLocalPath6 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9FD4FD-B6F4-4BF4-BE09-E1023D2F1E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9FD4FD-B6F4-4BF4-BE09-E1023D2F1E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9FD4FD-B6F4-4BF4-BE09-E1023D2F1E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9FD4FD-B6F4-4BF4-BE09-E1023D2F1E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22FC5FA-6B27-4004-AF52-185346EB25C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22FC5FA-6B27-4004-AF52-185346EB25C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22FC5FA-6B27-4004-AF52-185346EB25C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22FC5FA-6B27-4004-AF52-185346EB25C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8573D155-759C-41A3-A780-71D6E817BBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8573D155-759C-41A3-A780-71D6E817BBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8573D155-759C-41A3-A780-71D6E817BBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8573D155-759C-41A3-A780-71D6E817BBD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701AF05E-BAC0-4EA1-A477-0D78E1833947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701AF05E-BAC0-4EA1-A477-0D78E1833947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701AF05E-BAC0-4EA1-A477-0D78E1833947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701AF05E-BAC0-4EA1-A477-0D78E1833947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C6C8E90-C794-4888-811E-A9784072A13D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6C8E90-C794-4888-811E-A9784072A13D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6C8E90-C794-4888-811E-A9784072A13D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6C8E90-C794-4888-811E-A9784072A13D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9B7434-F8C6-4246-98C2-DB6F06B18E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9B7434-F8C6-4246-98C2-DB6F06B18E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9B7434-F8C6-4246-98C2-DB6F06B18E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9B7434-F8C6-4246-98C2-DB6F06B18E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2F9FD4FD-B6F4-4BF4-BE09-E1023D2F1E9E} = {C63C0A15-500B-49EA-8178-F20BD264B735}
+		{B22FC5FA-6B27-4004-AF52-185346EB25C5} = {C63C0A15-500B-49EA-8178-F20BD264B735}
+		{8573D155-759C-41A3-A780-71D6E817BBD2} = {C63C0A15-500B-49EA-8178-F20BD264B735}
+		{701AF05E-BAC0-4EA1-A477-0D78E1833947} = {C63C0A15-500B-49EA-8178-F20BD264B735}
+		{5C6C8E90-C794-4888-811E-A9784072A13D} = {C63C0A15-500B-49EA-8178-F20BD264B735}
+		{FB9B7434-F8C6-4246-98C2-DB6F06B18E51} = {C63C0A15-500B-49EA-8178-F20BD264B735}
+	EndGlobalSection
+EndGlobal

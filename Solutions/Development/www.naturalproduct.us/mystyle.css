@@ -1,0 +1,74 @@
+/* Headers will always be green */
+h1,h2,h3,h4,h5,h6 
+{
+color: green
+}
+
+/* hr {color: sienna} */
+/* hr {color: #0066CC} */
+ hr {color: green} 
+
+p {margin-left: 20px}
+
+/* body {background-image: url("/Inetpub/Mahesh/globe.gif")} */
+/*body {background-image: url("/Inetpub/Mahesh/ACBLUPRT.GIF");background-repeat: repeat-y} */
+ body { background-image: url('globe.gif'); background-repeat: repeat-y; }
+ body {bgcolor="#cccc00"
+	scrollbar-base-color: #663366; 
+	scrollbar-face-color: #999999; 
+	scrollbar-track-color: #CCCCCC; 
+	scrollbar-arrow-color: #330033;
+	scrollbar-highlight-color: #FFFFFF; 
+	scrollbar-3dlight-color: #CCCCCC; 
+	scrollbar-shadow-color: #663366;
+	scrollbar-darkshadow-color: #000000;
+ }
+
+/* This will prevent the Heyperlinks to be shown with an underline */
+a {text-decoration: none; color:  #CC6600; font-family: "arial"}
+
+/* Set the Font Of the TEXT */
+h3 {font-family: times}
+p {font-family: "courier new"; font-size: 12}
+p.sansserif {font-family: sans-serif}
+
+p.margin{margin-left: 3.7cm}
+
+
+/* UL { font-size : 10pt; font-family : arial, helvetica, sans-serif; color : #003366; } */
+
+ul           { font-family: 'Trebuchet MS', arial, helvetica, sans-serif; color: #003366; 
+               list-style-image: url('TRAHOMNA.GIF') }
+UL UL LI {
+font-size : 10pt; 
+font-family : "Trebuchet MS", Verdana,Arial, Helvetica, sans-serif; 
+color : #003366; list-style-image: url(/graphics/sub_bullet.gif);
+}
+
+UL UL UL LI {
+font-size : 10pt; 
+font-family : "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; 
+color : #003366; list-style-image: url(/graphics/sub_sub_bullet.gif);
+}
+
+OL {
+font-size : 10pt;
+font-family : arial, helvetica, sans-serif;
+color : #003366;
+}
+
+H2.subtitle {
+font-style : italic;
+font-size : 15pt;
+font-family : arial, helvetica, sans-serif;
+color : #003366;
+margin-left : 0;
+border-bottom : 1 solid #FFCCCC;
+border-left : 1 solid #FFCCCC;
+}
+ 
+H2 {
+font-size : 16pt;
+font-family : arial, helvetica, sans-serif;
+color : #003366;
+} 

@@ -1,0 +1,10 @@
+body
+{background-color:#F6FFEF; font-family: Verdana; font-size: 10pt; }
+a {color:#104EAA; text-decoration:none;}
+a:hover {color:#104EAA; text-decoration:underline;}
+div.one {background-color:#C8D4Bf; border-style:solid;
+border-color:#2F4F4F; border-right-width:1px; border-bottom-width:0px;
+border-left-width:1px; border-top-width:1px; text-align:left;}
+div.two {background-color:#FFF5D2; border-style:solid;
+border-color:#000000; border-right-width:1px; border-bottom-width:1px;
+border-left-width:1px; border-top-width:1px; text-align:left;} 

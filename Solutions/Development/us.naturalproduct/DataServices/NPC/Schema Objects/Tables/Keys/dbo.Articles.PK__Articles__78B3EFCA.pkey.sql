@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[Articles] ADD CONSTRAINT [PK__Articles__78B3EFCA] PRIMARY KEY CLUSTERED  ([ArticleId]) ON [PRIMARY]
+
+

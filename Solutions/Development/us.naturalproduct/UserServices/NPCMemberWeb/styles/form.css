@@ -1,0 +1,163 @@
+﻿/* 
+ * File: form.css
+ * Purpose: Styles defined here are used in forms.
+ * Author: Monish Nagisetty
+ * Date: 03/11/2006
+*/
+
+.StdForm fieldset,
+.RegistrationForm fieldset,
+.DivForm fieldset,
+.LoginForm fieldset
+{
+    padding: 10px 0px 10px 10px;
+
+}
+
+.RegistrationForm fieldset.ValSummary
+{
+    padding: 0px 5px 0px 5px;
+    display: inline;
+    color: Black;
+/*    background-color: #00FF00; */
+    border-width: 0px;
+    width: 100%;
+}
+
+.LoginForm fieldset.ValSummary
+{
+    padding: 0px 5px 0px 5px;
+    display: inline;
+    color: #FF0000;
+    border-width: 0px;
+}
+
+.RegistrationForm input:submit,
+.LoginForm input:submit
+{
+    border-width: 1px;
+    width: 50px;
+}
+
+.RegistrationForm fieldset legend,
+.LoginForm fieldset legend,
+.DivForm fieldset legend
+{
+    padding: 5px 5px 5px 5px;
+    font-size: 120%;
+    font-weight: bold;
+    color: #0046D5;    
+}
+
+.RegistrationForm fieldset div,
+.LoginForm fieldset div
+{
+    margin: 10px 0px 0px 5px;  
+}
+
+.RegistrationForm fieldset div label
+{
+    display: block;
+    float: left;
+    width: 120px;
+    padding: 3px 5px;
+    margin: 0px 0px 5px 0px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.LoginForm fieldset div label
+{
+    display: block;
+    float: left;
+    width: 60px;
+    padding: 3px 5px;
+    margin: 0px 0px 5px 0px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.LoginForm fieldset div span.ColTwo,
+.RegistrationForm fieldset div span.ColTwo
+{
+	display: block;
+	padding: 5px 0px 5px 0px;
+}
+
+.RegistrationForm fieldset div input:password, 
+.RegistrationForm fieldset div input:text
+{
+    width: 10px;  
+}
+
+.RegistrationForm fieldset div textarea
+{
+    width: 350px;
+    height: 80px;   
+}
+
+.RegistrationForm fieldset div table
+{
+    width: 100%;
+}
+
+.RegistrationForm fieldset div table tr.HdrRow
+{
+    font-weight: bold;
+    text-align: center;
+    color: #0046D9;
+}
+
+.RegistrationForm fieldset div table tr.AltRow
+{
+    background-color: #eee;   
+}
+
+.RegistrationForm fieldset div table tr td
+{
+    text-align: center; 
+}
+
+.RegistrationForm fieldset div table tr td.LftCol
+{
+    text-align: left; 
+}
+
+.RegistrationForm fieldset div.help
+{
+    float: right;
+    width: 200px;
+    height: auto;
+    margin: 0px 0px 10px 10px;
+    padding: 5px;
+    border: 1px solid #0077AA;
+    background-color: #ffffff;
+    color: #666666;
+    font-size: smaller;
+    position: relative;    
+}
+
+.RegistrationForm fieldset div.help h4
+{
+  padding: 3px 0px 3px 3px;
+  border: 2px inset #0077AA;
+  color: #0077AA;
+  font-size: 110%;   
+}
+
+.Success
+{
+    color: Green;   
+    font-weight: bold;
+}
+
+.Failure
+{
+    color: Red;
+    font-weight: bold;
+}
+
+.Date
+{
+    width: 66px;
+}

@@ -1,0 +1,4 @@
+﻿ALTER TABLE [dbo].[UserRoles] WITH NOCHECK ADD
+CONSTRAINT [FK_UserRoles_Roles] FOREIGN KEY ([RoleId]) REFERENCES [dbo].[Roles] ([RoleId]) NOT FOR REPLICATION
+
+

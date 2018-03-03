@@ -1,0 +1,54 @@
+﻿/* 
+ * File: pageStyles.css
+ * Purpose: Styles defined here are used specifically on various pages.
+ * Author: Monish Nagisetty
+ * Date: 03/18/2006
+*/
+.ArticleList
+{
+    width: 500px;
+    font-size: small;
+    padding: 10px 3px 3px 15px;
+    
+}
+
+.ArticleList div
+{
+    padding: 10px 5px 10px 5px;
+    border-bottom: dashed 1px #ccc;
+}
+
+.ArticleList div span.auth
+{
+    font-style: italic;
+    /*padding: 2px 0px 2px 0px;
+    display: inline-block; */
+}
+
+.ArticleList div span.title
+{
+    font-weight: bold;
+    font-size: small;
+/*    padding: 2px 0px 2px 0px;
+    display: inline-block;
+*/
+}
+
+.ArticleList div span
+{
+    padding: 2px 0px 3px 0px;
+    display: inline-block;
+}
+
+.ArticleList div a
+{
+    font-size: x-small;   
+}
+
+.IssueDetails
+{
+    width: 500px;    
+    padding: 5px 5px 3px 10px;
+    border-bottom: solid 1px #ccc;
+    border-top: solid 1px #ccc;
+}

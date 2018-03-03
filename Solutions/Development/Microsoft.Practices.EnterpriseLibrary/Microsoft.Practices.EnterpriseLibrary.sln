@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17F00128-CEB7-4D47-A2EC-84B2BC496283}"
+	ProjectSection(SolutionItems) = preProject
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll = Build\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Common.XML = Build\Release\Microsoft.Practices.EnterpriseLibrary.Common.XML
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll = Build\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.dll
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.XML = Build\Release\Microsoft.Practices.EnterpriseLibrary.Configuration.Design.XML
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll = Build\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.dll
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.XML = Build\Release\Microsoft.Practices.EnterpriseLibrary.Data.Configuration.Design.XML
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll = Build\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Data.XML = Build\Release\Microsoft.Practices.EnterpriseLibrary.Data.XML
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll = Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.dll
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.XML = Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Configuration.Design.XML
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.Configuration.Design.dll = Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.Configuration.Design.dll
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.Configuration.Design.XML = Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.Configuration.Design.XML
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll = Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.XML = Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.Database.XML
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll = Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+		Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.XML = Build\Release\Microsoft.Practices.EnterpriseLibrary.Logging.XML
+		Build\Release\Microsoft.Practices.ObjectBuilder.dll = Build\Release\Microsoft.Practices.ObjectBuilder.dll
+		Build\Release\Microsoft.Practices.ObjectBuilder.XML = Build\Release\Microsoft.Practices.ObjectBuilder.XML
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccLocalPath0 = .
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

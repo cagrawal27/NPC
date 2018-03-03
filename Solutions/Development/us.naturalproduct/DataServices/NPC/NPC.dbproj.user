@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <AlwaysCreateNewDatabase>True</AlwaysCreateNewDatabase>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DesignDBName>NPC_DB_f04f0f4e-aa8d-4a6f-aec0-7b921c4900e5</DesignDBName>
+  </PropertyGroup>
+</Project>

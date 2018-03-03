@@ -1,0 +1,3 @@
+﻿ALTER TABLE [dbo].[Documents] ADD CONSTRAINT [PK_Documents] PRIMARY KEY CLUSTERED  ([DocId]) ON [PRIMARY]
+
+

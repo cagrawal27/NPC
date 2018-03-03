@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Admin", "Admin", "{C17B1874-C851-40CB-BDBF-96B414A554F1}"
+	ProjectSection(SolutionItems) = preProject
+		dbo.spAdminDeleteSubscription.sql = dbo.spAdminDeleteSubscription.sql
+		dbo.spAdminExistsUserIPAddress.sql = dbo.spAdminExistsUserIPAddress.sql
+		dbo.spAdminGetAvailableSubscriptions.sql = dbo.spAdminGetAvailableSubscriptions.sql
+		dbo.spAdminGetSubscriptions.sql = dbo.spAdminGetSubscriptions.sql
+		dbo.spAdminGetUserIPAddresses.sql = dbo.spAdminGetUserIPAddresses.sql
+		dbo.spAdminInsertSubscription.sql = dbo.spAdminInsertSubscription.sql
+		dbo.spAdminInsertUserIPAddress.sql = dbo.spAdminInsertUserIPAddress.sql
+		dbo.spAdminUpdateSubscription.sql = dbo.spAdminUpdateSubscription.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "User", "User", "{D2976FBF-9D87-4546-9E6A-645C91942562}"
+	ProjectSection(SolutionItems) = preProject
+		dbo.IsUserArticleSubscriber.sql = dbo.IsUserArticleSubscriber.sql
+		dbo.IsUserIssueSubscriber.sql = dbo.IsUserIssueSubscriber.sql
+		dbo.spGetArticleDocumentsBySubscription.sql = dbo.spGetArticleDocumentsBySubscription.sql
+		dbo.spGetIssueDocumentsBySubscription.sql = dbo.spGetIssueDocumentsBySubscription.sql
+		dbo.spGetUserByEmail.sql = dbo.spGetUserByEmail.sql
+		dbo.spGetUserByUserId.sql = dbo.spGetUserByUserId.sql
+		dbo.spGetUserInfo.sql = dbo.spGetUserInfo.sql
+		dbo.spGetUserIPAddressByIP.sql = dbo.spGetUserIPAddressByIP.sql
+		dbo.spGetUserRolesByUserId.sql = dbo.spGetUserRolesByUserId.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 1
+		SccLocalPath0 = .
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
